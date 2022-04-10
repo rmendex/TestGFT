@@ -25,8 +25,20 @@
 
 <b>EndPoint [POST]: /api/OrderMenu/v1/meals</b>
 
+</br>
 
-# Json
+<b>Sample Input and Output:</b>
+1. Input: morning, 1, 2, 3 Output: eggs, toast, coffee
+2. Input: morning, 2, 1, 3 Output: eggs, toast, coffee
+3. Input: morning, 1, 2, 3, 4 Output: eggs, toast, coffee, error
+4. Input: morning, 1, 2, 3, 3, 3 Output: eggs, toast, coffee(x3)
+5. Input: night, 1, 2, 3, 4 Output: steak, potato, wine, cake
+6. Input: night, 1, 2, 2, 4 Output steak, potato(x2), cake
+7. Input: night, 1, 2, 3, 5 Output: steak, potato, wine, error
+8. Input: night, 1, 1, 2, 3, 5 Output: steak, error
+
+
+# Json - POST
 ```
              POST /api/OrderMenu/v1/meals
              {
