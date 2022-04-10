@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RestaurantOrderApp.Api.Application</name>
+    </assembly>
+    <members>
+        <member name="M:RestaurantOrderApp.Api.Application.Controllers.OrderMenuController.OrderMeals(MediatR.IMediator,RestaurantOrderApp.Api.Infra.Resources.Queries.GetDishesQuery)">
+             <summary>
+             Request Dishes
+             </summary>
+             <remarks>
+             Example:
+            
+                 POST /api/OrderMenu/v1/meals
+                 {
+                    "TimeOfDay": "morning",
+                    "DishType": [1,2,3]
+                 }
+            
+             </remarks>
+             <returns>Order requested</returns>
+             <response code="200">Returns meals requested</response>
+             <response code="400">Bad Request</response>
+             <response code="500">Internal Server Error</response> 
+        </member>
+    </members>
+</doc>

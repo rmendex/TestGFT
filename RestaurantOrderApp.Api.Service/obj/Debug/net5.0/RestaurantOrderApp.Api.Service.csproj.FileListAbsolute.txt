@@ -1,0 +1,15 @@
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\bin\Debug\net5.0\RestaurantOrderApp.Api.Service.deps.json
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\bin\Debug\net5.0\RestaurantOrderApp.Api.Service.dll
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\bin\Debug\net5.0\ref\RestaurantOrderApp.Api.Service.dll
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\bin\Debug\net5.0\RestaurantOrderApp.Api.Service.pdb
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\bin\Debug\net5.0\RestaurantOrderApp.Api.Domain.dll
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\bin\Debug\net5.0\RestaurantOrderApp.Api.Domain.pdb
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.csproj.AssemblyReference.cache
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.AssemblyInfoInputs.cache
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.AssemblyInfo.cs
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.csproj.CoreCompileInputs.cache
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.csproj.CopyComplete
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.dll
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\ref\RestaurantOrderApp.Api.Service.dll
+C:\projetos\RestaurantOrderApp.Api\RestaurantOrderApp.Api.Service\obj\Debug\net5.0\RestaurantOrderApp.Api.Service.pdb
